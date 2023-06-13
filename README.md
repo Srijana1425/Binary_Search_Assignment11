@@ -13,7 +13,7 @@ Output: 2<br>
 Explanation: The square root of 8 is 2.82842..., and since we round it down to the nearest integer, 2 is returned.<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Binary_Search_Assignment11/blob/main/ans1.js)<br>
 ********************************************************************************************************************************
 **Question 2**<br>
 A peak element is an element that is strictly greater than its neighbors.
@@ -30,7 +30,7 @@ Output: 5<br>
 Explanation: Your function can return either index number 1 where the peak element is 2, or index number 5 where the peak element is 6.<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Binary_Search_Assignment11/blob/main/ans2.js)<br>
 ********************************************************************************************************************************
 **Question 3**<br>
 Given an array `nums` containing `n` distinct numbers in the range `[0, n]`, return *the only number in the range that is missing from the array.*<br>
@@ -48,7 +48,7 @@ Output: 8<br>
 Explanation: n = 9 since there are 9 numbers, so all numbers are in the range [0,9]. 8 is the missing number in the range since it does not appear in nums.<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Binary_Search_Assignment11/blob/main/ans3.js)<br>
 ********************************************************************************************************************************
 **Question 4**<br>
 Given an array of integers `nums` containing `n + 1` integers where each integer is in the range `[1, n]` inclusive.
@@ -62,7 +62,7 @@ Input: nums = [3,1,3,4,2]<br>
 Output: 3<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Binary_Search_Assignment11/blob/main/ans4.js)<br>
 ********************************************************************************************************************************
 **Question 5**<br>
 Given two integer arrays `nums1` and `nums2`, return *an array of their intersection*. Each element in the result must be **unique** and you may return the result in **any order**.<br>
@@ -75,7 +75,7 @@ Output: [9,4]<br>
 Explanation: [4,9] is also accepted.<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Binary_Search_Assignment11/blob/main/ans5.js)<br>
 ********************************************************************************************************************************
 **Question 6**<br>
 Suppose an array of length `n` sorted in ascending order is **rotated** between `1` and `n` times. For example, the array `nums = [0,1,2,4,5,6,7]` might become:<br>
@@ -98,7 +98,7 @@ Output: 11<br>
 Explanation: The original array was [11,13,15,17] and it was rotated 4 times.<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Binary_Search_Assignment11/blob/main/ans6.js)<br>
 ********************************************************************************************************************************
 **Question 7**<br>
 Given an array of integers `nums` sorted in non-decreasing order, find the starting and ending position of a given `target` value.
@@ -115,7 +115,7 @@ Input: nums = [], target = 0<br>
 Output: [-1,-1]<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Binary_Search_Assignment11/blob/main/ans7.js)<br>
 ********************************************************************************************************************************
 **Question 8**<br>
 Given two integer arrays `nums1` and `nums2`, return *an array of their intersection*. Each element in the result must appear as many times as it shows in both arrays and you may return the result in **any order**.<br>
@@ -128,6 +128,6 @@ Output: [4,9]<br>
 Explanation: [9,4] is also accepted.<br><br>
 
 *Answer*<br>
-**Code** [Link]()<br>
+**Code** [Link](https://github.com/Srijana1425/Binary_Search_Assignment11/blob/main/ans8.js)<br>
 ********************************************************************************************************************************
 
